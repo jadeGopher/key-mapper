@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Key Mapper</string>
+    <string name="browse_title">Key Mapper</string>
+    <string name="description">Go to accessibility settings and grant permission to Key Mapper service</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
